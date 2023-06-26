@@ -1,0 +1,11 @@
+Section: J2S
+Group Name: Pajama Party
+DNS: www.pajamaparty.link
+
+Group Members:
+Ariado, Reniel A.
+Bautista, Symon Gabriel
+Mejarito, Jose Gabriel
+Miyake, Michael
+Sarmiento, Josh Myrrden
+Singhid, Marc Raven
